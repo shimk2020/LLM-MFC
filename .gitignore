@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated folders
+embedding_cache/
+ml_ready/
+model_results/
+
+# Temporary outputs
+*.log
+*.tmp
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+#file
+Data_Model_Diagnostics.ipynb

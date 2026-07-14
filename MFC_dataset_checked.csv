@@ -1,0 +1,116 @@
+﻿substrate_type,initial_conc_g_cod_l,anode_material,anode_surface_area_m2,anolyte_volume_ml,cathode_material,cathode_surface_area_m2,catholyte_volume_ml,pH,temperature_c,anode_S_V_ratio_m2_m3,cathode_S_V_ratio_m2_m3,max_power_density_w_m2
+Sodium acetate,2.56,Graphite felt,0.0018,250,Graphite felt,0.0028,250,,30,7.2,11.2,0.836
+Sucrose,0.9,Carbon felt,0.0114,20,Carbon cloth,0.0162,20,7.45,25,570,810,0.035
+Glucose,0.25,Carbon paper,0.0025,700,Titanium plate,0.0025,700,,25,3.571428571,3.571428571,0.0495
+Dextrose anhydrous,0.85,Carbon cloth,0.00035,300,PES-modified Laser-Induced Graphene on carbon cloth,0.00035,300,,,1.166666667,1.166666667,0.72
+Glucose,19.21,Carbon fiber,0.0072,200,Carbon fiber,0.0072,200,6.75,,36,36,0.541
+Rotten sweet potato juice,,Graphite rod,0.00302,2500,Graphite rod,0.00302,2500,7,,1.208,1.208,0.00873
+Sodium acetate,0.47,Graphite fiber brush,0.0007,28,Carbon paper,0.0007,28,7.4,,25,25,0.619
+Cow manure,1.1,Graphite felt,0.0016,100,Graphite felt,0.0016,100,7.25,25,16,16,0.0869
+Petrochemical industrial wastewater,5.6,Activated carbon fiber felt,0.012,500,Activated carbon fiber felt,0.012,500,7,,24,24,0.27
+brewery wastewater,0.5,Biochar-modified carbon felt,0.00159,400,Carbon felt,0.00159,400,7,,3.975,3.975,0.10805
+Septictank wastewater,2.7517,Graphite plate,0.012,550,Graphite plate,0.012,550,7.98,31.4,21.81818182,21.81818182,0.20404
+Apple waste,4,Stainless steel brush,,1800,"Carbon cloth with Nafion, 20 percent platinum on Vulcan carbon with PTFE layer",,1800,7,,,,0.218
+Waste vegetable oil,1.84,Carbon veil,0.0009,20,Activated carbon,0.0009,20,8.5,,45,45,0.147
+Sodium acetate,0.47,Carbon brush,0.0007,20,Activated carbon,0.0007,28,,30,35,25,0.41
+Sodium acetate,,Graphite fiber brush,0.000625,28,Activated carbon,0.0007,28,,,,,1.84
+Phenol with acetate,1.69,Carbon cloth,0.00029,30,Stainless steel mesh,0.00029,30,6.9,23.5,9.666666667,9.666666667,0.2672
+Phenol with glucose,1.69,Carbon cloth,0.00029,30,Stainless steel mesh,0.00029,30,6.9,23.5,9.666666667,9.666666667,0.2345
+Phenol with sucrose,1.69,Carbon cloth,0.00029,30,Stainless steel mesh,0.00029,30,6.9,23.5,9.666666667,9.666666667,0.1896
+Phenol with ethanol,1.69,Carbon cloth,0.00029,30,Stainless steel mesh,0.00029,30,6.9,23.5,9.666666667,9.666666667,0.1081
+Palm oil mill effluent,,Polyacryl nitrile carbon felt,0.0009,35,Polyacryl nitrile carbon felt,0.0009,35,,,25.71428571,25.71428571,0.226
+Petrochemical wastewater,45,Polyacrylonitrile coated carbon felt,0.0004,35,Polyacrylonitrile coated carbon felt,0.0004,40,7,,11.42857143,10,0.85
+Petrochemical wastewater,5,Polyacrylonitrile coated carbon felt,0.0004,35,Polyacrylonitrile coated carbon felt,0.0004,40,7,,11.42857143,10,0.15
+Bilge water,3.35,Carbon fiber brush,0.00177,40,A mixture of activated carbon and carbon black on PVDF,0.00071,40,7.4,23,44.25,17.75,0.2253
+Glucose,1.067,Carbon cloth,0.0004,40,Carbon felt,0.00014,40,7.42,35,10,3.5,0.49519
+Glucose,1.067,Carbon cloth,0.0004,40,Carbon felt,0.00014,40,7.42,35,10,3.5,0.67535
+Glucose,1.067,Carbon cloth,0.0004,40,Carbon felt,0.00014,40,7.42,35,10,3.5,0.78405
+Glucose,1.067,Carbon cloth,0.0004,40,Carbon felt,0.00014,40,7.42,35,10,3.5,0.57644
+Sucrose with sodium acetate,9.792,Fe-t-MOF/PANI based electrode,0.0000785,40,Fe-t-MOF/PANI based electrode,7.85E-05,40,,,1.9625,1.9625,0.68
+Sodium Acetate,0.78,Carbon Fiber Brush,0.000625,28,Stainless Steel Mesh with Activated Carbon Catalyst,0.0007,28,,30,22.32142857,25,0.994
+Activated sludge,1.612,Graphite,0.0004,50,"Non-platinized, gas diffusion electrodes",0.0004,50,7.61,25,8,8,0.0915
+Activated sludge,1.612,rGO-coated Graphite,0.0004,50,"Non-platinized, gas diffusion electrodes",0.0004,50,7.61,25,8,8,0.148
+Activated sludge,1.612,CNTs-coated Graphite,0.0004,50,"Non-platinized, gas diffusion electrodes",0.0004,50,7.61,25,8,8,0.231
+Activated sludge,1.612,PANI-coated Graphite,0.0004,50,"Non-platinized, gas diffusion electrodes",0.0004,50,7.61,25,8,8,0.256
+Sodium acetate,0.78,Flame-oxidized stainless steel (FO-SS) fiber felt,0.0002,60,Pt/C-modified carbon paper,0.0025,60,7.2,20,3.333333333,41.66666667,0.55
+Sodium acetate,0.78,Flame-oxidized stainless steel (FO-SS) fiber felt,0.0002,60,Pt/C-modified carbon paper,0.0025,60,7.2,24,3.333333333,41.66666667,0.72
+Sodium acetate,0.78,Flame-oxidized stainless steel (FO-SS) fiber felt,0.0002,60,Pt/C-modified carbon paper,0.0025,60,7.2,30,3.333333333,41.66666667,0.91
+Sodium acetate,0.78,Flame-oxidized stainless steel (FO-SS) fiber felt,0.0002,60,Pt/C-modified carbon paper,0.0025,60,7.2,34,3.333333333,41.66666667,1.05
+Sodium acetate,0.78,Flame-oxidized stainless steel (FO-SS) fiber felt,0.0002,60,Pt/C-modified carbon paper,0.0025,60,7.2,40,3.333333333,41.66666667,1
+Propanethiol,1.155,Carbon Brush,0.0022,70,Platinum,0.000225,70,,,31.42857143,3.214285714,0.0152
+Synthetic wastewater from sodium acetate,1,Carbon felt,0.002,80,Carbon felt,0.002,80,,,25,25,0.275
+Wastewater,0.7,Iron-coated carbon cloth,0.0006,84,Platinum on Carbon Cloth,0.0006,84,,25,7.142857143,7.142857143,0.08
+Wastewater,0.7,Bare carbon cloth,0.0006,84,Platinum on Carbon Cloth,0.0006,84,,25,7.142857143,7.142857143,0.04
+Sodium Lactate with succinic acid,1.92,Nickel modified with graphene,0.0002,100,Nickel modified with graphene,0.0002,100,,32,2,2,0.000468
+Sodium acetate,4.68,Carbon felt,0.000032,128,Carbon paper,0.000032,128,,24.85,0.25,0.25,0.045
+Breeding wastewater,42.843,Nickel-coated sponge,0.0005,150,Carbon paper,0.001,150,7.37,30,3.333333333,6.666666667,0.35092
+Autoclaved breeding wastewater,28.955,Nickel-coated sponge,0.0005,150,Carbon paper,0.001,150,7.37,30,3.333333333,6.666666667,0.43822
+Acetate,0.316,Carbon felt,0.003,160,Pt/carbon paper,0.0008,160,7.2,37,18.75,5,0.213
+Municipal solid wastewater,5.46,Graphite,0.0189,65,Graphite,0.0132,65,7.55,22,290.7692308,203.0769231,0.019780952
+Rice straw,3.8,Carbon paper,0.001,200,Carbon paper,0.001,200,,30,5,5,0.11935
+Potato peels,,Carbon paper,0.001,200,Carbon paper,0.001,200,,30,5,5,0.15255
+Sodium acetate,3,Carbon felt,0.003,200,Carbon felt,0.003,200,,26,15,15,0.246666667
+Sodium acetate,3,Carbon felt,0.003,200,Carbon felt,0.003,200,,26,15,15,0.126666667
+Citrus waste,3,Plain graphite plate,0.003,200,Plain graphite plate,0.003,200,7,,15,15,0.0711
+Citrus waste,6,Plain graphite plate,0.003,200,Plain graphite plate,0.003,200,7,,15,15,0.0634
+Citrus waste,9,Plain graphite plate,0.003,200,Plain graphite plate,0.003,200,7,,15,15,0.0562
+Citrus waste,12,Plain graphite plate,0.003,200,Plain graphite plate,0.003,200,7,,15,15,0.0485
+Synthetic Wastewater,3,Carbon Cloth,0.0004,200,Stainless Steel,0.0004,200,7,28,2,2,0.0008
+Synthetic Wastewater,3,Graphene oxide modified carbon cloth,0.0004,200,Stainless Steel,0.0004,200,7,28,2,2,0.0016
+Synthetic Wastewater,3,Electrochemically reduced graphene oxide modified carbon cloth,0.0004,200,Stainless Steel,0.0004,200,7,28,2,2,0.014
+Real Dairy Wastewater,8,Carbon cloth,0.005,200,Platinum,0.005,200,7.4,30,25,25,0.06227
+Sodium acetate,1.664,Graphite felt,0.0042,250,Platinum coated carbon cloth,0.0042,250,,,16.8,16.8,0.329
+Glucose,5.335,Carbon cloth with granular activated carbon,0.0049,250,Carbon cloth with PVDF paste,0.0014,,8,35,19.6,,0.06569898
+Dried banana peel powder,1.126,Activated charcoal on stainless steel mesh,0.006,300,Graphite rod,0.003141593,300,7.5,,20,10.47197667,0.0022
+Dried banana peel powder,1.126,Activated charcoal on stainless steel mesh,0.006,300,Graphite rod,0.003141593,300,7.5,,20,10.47197667,0.0001
+Banana peel slurry,1.366,Activated charcoal on stainless steel mesh,0.006,300,Graphite rod,0.003141593,300,7.9,,20,10.47197667,0.0869
+Banana peel slurry,1.366,Activated charcoal on stainless steel mesh,0.006,300,Graphite rod,0.003141593,300,7.9,,20,10.47197667,0.0446
+Sodium Acetate,1.56,Carbon cloth,0.0025,300,Platinum on carbon cloth,0.0025,300,7,20,8.333333333,8.333333333,0.185
+Cashew apple juice,,Carbon coated on carbon cloth,0.005,300,Platinum on carbon coated carbon cloth,0.005,300,4.1,,16.66666667,16.66666667,0.03158
+Sodium acetate,1.04,Carbon felt,0.0256,320,Carbon felt,0.0256,320,7,30,80,80,1.29
+Sodium acetate,2.5,Carbon felt,0.000086,0.346,Carbon paper,0.000086,0.346,,24.85,248.5549133,248.5549133,0.061
+Sodium acetate,2.5,Carbon felt,0.000032,0.346,Carbon paper,0.000032,0.346,,24.85,92.48554913,92.48554913,0.045
+"Domestic Organic Waste(Mixed Vegetables, Rice, Bread, Fish Pieces)",,Carbon rod,0.001,350,Carbon rod,0.001,350,,24,2.857142857,2.857142857,0.0001047
+Glucose,0.533,Bio-Nickel doped carbon felt,0.0012,350,Carbon Felt,0.0012,350,7.2,30,3.428571429,3.428571429,0.13072
+Food waste with glucose,,Graphite rod,0.006594,350,Graphite rod,0.006594,350,6.39,25,18.84,18.84,0.43822
+Glucose,1.748,Carbon cloth,0.0042,350,Carbon cloth,0.0042,350,7.9,,12,12,0.03137
+Tannery wastewater,4.72,Graphite Particle,0.25,400,Carbon cloth,,400,7.92,,625,,0.03744
+Tannery wastewater,4.72,Carbon cloth,0.25,400,Carbon cloth,,400,7.92,,625,,0.0311
+Real dairy wastewater,2,Carbon cloth,,400,Carbon cloth,,400,7.4,37,,,0.105
+Acetate mixed with congo red and chemical sulfide,1.742,Graphite fiber brush,,400,Carbon cloth,0.005024,400,7,25,,12.56,0.0235
+Acetate mixed with congo red and biogenic sulfide,1.742,Graphite fiber brush,,400,Carbon cloth,0.005024,400,7,25,,12.56,0.05925
+Rice mill wastewater,2,Stainless steel mesh,0.0184,480,Graphite plate,0.0115,2300,7,,38.33333333,5,0.1092
+Chocolaterie wastewater,1.6,Carbon veil,0.0135,500,Carbon veil,0.0135,600,7,,27,22.5,0.098
+Chocolaterie wastewater,0.68,Carbon veil,0.0135,500,Carbon veil,0.0135,600,7,,27,22.5,0.03
+Chocolaterie wastewater,0.8,Carbon veil,0.0135,500,Carbon veil,0.0135,600,7,,27,22.5,0.0533
+Chocolaterie wastewater,2.4,Carbon veil,0.0135,500,Carbon veil,0.0135,600,7,,27,22.5,0.031
+"	Glucose",0.8,Graphite rod with conductive graphite granules,,590,Gore Tex cloth coated with manganese dioxide conductive paste,,,,28,,,1.4
+"	Glucose",1.2,Graphite rod with conductive graphite granules,,590,Gore Tex cloth coated with manganese dioxide conductive paste,,,,28,,,0.6
+Olive mill wastewater,1.2,Graphite rod with conductive graphite granules,,590,Gore Tex cloth coated with manganese dioxide conductive paste,,,,28,,,2
+Olive mill wastewater,1.2,Graphite rod with conductive graphite granules,,590,Gore Tex cloth coated with manganese dioxide conductive paste,,,,28,,,0.7
+Glucose with phenolics,1.2,Graphite rod with conductive graphite granules,,590,Gore Tex cloth coated with manganese dioxide conductive paste,,,,28,,,1.2
+Glucose with phenolics,1.2,Graphite rod with conductive graphite granules,,590,Gore Tex cloth coated with manganese dioxide conductive paste,,,,28,,,1
+Rotten rice,,Graphite rod,0.006594,800,Graphite rod,0.006594,800,7,30,8.2425,8.2425,0.0029
+Brewery wastewater,3.6409,Graphite rod,0.0025,800,Graphite rod,0.0025,800,7.8,,3.125,3.125,0.072433183
+Synthetic wastewater with various biodegradable substrates,0.343,Graphite plate,0.000465,0.95,Graphite plate,0.000285,0.95,,,489.4736842,300,1.6
+Marine sediment,,Polypyrrole coated MnO2 and Fe2O3,0.3023,1000,Carbon fiber,0.604,1000,7.945,28.5,302.3,604,0.17045
+Dairy wastewater,0.15,Stainless steel mesh coated with acrylic-based graphite paint,0.0174,1100,Activated carbon and carbon black on stainless steel mesh,0.000625,1100,,,15.81818182,0.568181818,0.029
+Apple waste,7,Stainless steel brush,,3600,Platinum on vulcan carbon coated carbon cloth,,3600,7,30,,,0.221
+Glucose,1,Graphite rod,0.0022,1900,Graphite rod,0.0022,1900,7,30,1.157894737,1.157894737,0.051
+Sucrose,1,Graphite rod,0.0022,1900,Graphite rod,0.0022,1900,7,30,1.157894737,1.157894737,0.064
+Acetate,1,Graphite rod,0.0022,1900,Graphite rod,0.0022,1900,7,30,1.157894737,1.157894737,0.091
+Acetate,0.5,Graphite rod,0.0022,1900,Graphite rod,0.0022,1900,7,30,1.157894737,1.157894737,0.033
+Acetate,2,Graphite rod,0.0022,1900,Graphite rod,0.0022,1900,7,30,1.157894737,1.157894737,0.101
+Acetate,3,Graphite rod,0.0022,1900,Graphite rod,0.0022,1900,7,30,1.157894737,1.157894737,0.114
+Tannery wastewater,1.134,Zinc mesh net,0.012997,2000,Copper mesh net,0.012997,2000,6.36,,6.4985,6.4985,0.015
+Textile wastewater,0.854,Aluminium mesh net,0.038,2000,Aluminium mesh net,0.038,2000,10.03,,19,19,0.12
+Rotten sweet potatoes,,Palm kernel shell derived graphene oxide,0.003389,2500,Graphite rod,,,6.89,26,1.3556,,0.01785
+Rotten sweet potatoes,,Palm kernel shell derived reduced graphene oxide,0.003389,2500,Graphite rod,,,6.89,26,1.3556,,0.03511
+Palm Sugar,,Graphite Rod,0.020106,3000,Graphite Rod,0.010053,3000,6.95,27,6.702,3.351,0.13026
+bakery waste ,,Graphite Rod,0.006594,2000,Graphite Rod,0.006594,2000,7.82,25,3.297,3.297,0.001001
+Waste potato,,Graphite,0.003,4500,Graphite,0.0015,4500,6.16,26,0.666666667,0.333333333,0.000000023
+Domestic Wastewater,0.68647,Carbon Felt,0.216,18000,Carbon Felt,0.2007,18000,,,12,11.15,0.02352
+Vegetable Protein,2,Silver Plate,0.0026,,Graphite Rod,0.00115,,7,30,,,0.692
+Organic materials,,Bio anode with polymeric foam substrate,,,Bio cathode with polymeric foam substrate,,,,,,,4.2
+Wastewater,0.78,Carbon cloth,0.002826,,Platinum on Carbon Cloth,0.002826,,7,25,,,0.21
+Wastewater,0.78,Carbon cloth,0.002826,,Biomass-derived activated carbon,0.002826,,7,25,,,0.12
