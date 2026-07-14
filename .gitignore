@@ -19,3 +19,6 @@ model_results/
 
 # macOS
 .DS_Store
+
+#file
+Data_Model_Diagnostics.ipynb
